@@ -5,4 +5,4 @@ from django.test import TestCase
 
 class TestCiExample(TestCase):
     def test_true(self):
-        self.assertEqual("hello", "not equal")
+        self.assertEqual("hello", "hello")
