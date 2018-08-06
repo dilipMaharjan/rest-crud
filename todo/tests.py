@@ -11,4 +11,4 @@ class TestCiExample(TestCase):
         self.assertFalse(False)
 
     def test_true(self):
-        self.assertTrue(False)
+        self.assertTrue(True)
